@@ -11,6 +11,6 @@
 
   </p></details>
 
-  - Convolutional Neural Networks in TensorFlow
-  - Natural Language Processing in TensorFlow
-  - Sequences, Time Series and Prediction
+  - [Convolutional Neural Networks in TensorFlow](https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/2.%20Convolutional%20Neural%20Networks%20in%20TensorFlow)
+  - [Natural Language Processing in TensorFlow](https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow)
+  - [Sequences, Time Series and Prediction](https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/4.%20Sequences%2C%20Time%20Serirs%20and%20Prediction)
