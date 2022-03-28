@@ -1,5 +1,5 @@
 # DeepLearning.AI TensorFlow Developer Professional Certificate
-## Instructed by [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/img/laurence_moroney.png" width="50"/> Laurence Moroney](https://laurencemoroney.com/about.html)
+## Instructed by [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/img/laurence_moroney.png" width="20"/> Laurence Moroney](https://laurencemoroney.com/about.html)
 ## Offered by [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/misc/img/deeplearning_logo.png" width="200"/>](https://www.deeplearning.ai)
 
 [DeepLearning.AI TensorFlow Developer Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
