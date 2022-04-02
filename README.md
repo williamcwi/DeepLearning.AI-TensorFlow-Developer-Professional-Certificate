@@ -27,4 +27,5 @@
       [<img src="https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/blob/master/3.%20Natural%20Language%20Processing%20in%20TensorFlow/Natural%20Language%20Processing%20in%20TensorFlow.jpg" />](https://coursera.org/verify/JCGQ7E93HKX2)
 
   </p></details>
+  
   - [Sequences, Time Series and Prediction](https://github.com/williamcwi/DeepLearning.AI-TensorFlow-Developer-Professional-Certificate/tree/master/4.%20Sequences%2C%20Time%20Serirs%20and%20Prediction)
